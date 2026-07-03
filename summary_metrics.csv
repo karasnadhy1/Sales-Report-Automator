@@ -1,0 +1,30 @@
+metric,label,value
+revenue_by_category,Electronics,69371.91
+revenue_by_category,Accessories,4169.68
+revenue_by_category,Home,2081.45
+revenue_by_category,Office,225.0
+revenue_by_region,West,30208.51
+revenue_by_region,South,20973.22
+revenue_by_region,East,14152.38
+revenue_by_region,North,10513.93
+top_product,Laptop,53099.41
+top_product,Monitor,10074.0
+top_product,Headphones,4799.2
+top_product,Backpack,3690.0
+top_product,Wireless Mouse,1399.3
+revenue_by_rep,R. Diaz,28924.09
+revenue_by_rep,M. Owens,25189.98
+revenue_by_rep,J. Patel,12466.23
+revenue_by_rep,K. Chen,9147.85
+monthly_revenue,2026-01,1839.3
+monthly_revenue,2026-02,6245.13
+monthly_revenue,2026-03,6331.31
+monthly_revenue,2026-04,3111.36
+monthly_revenue,2026-05,2180.24
+monthly_revenue,2026-06,7044.22
+monthly_revenue,2026-07,5191.32
+monthly_revenue,2026-08,4817.82
+monthly_revenue,2026-09,13600.58
+monthly_revenue,2026-10,7064.82
+monthly_revenue,2026-11,1460.3
+monthly_revenue,2026-12,16961.64

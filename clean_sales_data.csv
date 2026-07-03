@@ -1,0 +1,171 @@
+order_id,order_date,customer_name,product,category,quantity,unit_price,region,sales_rep,is_return,revenue
+1075,2026-01-02,Fatima Al-Rashid,Laptop,Electronics,1.0,899.99,West,M. Owens,False,899.99
+1045,2026-01-03,Tom Becker,Headphones,Electronics,6.0,59.99,South,R. Diaz,False,359.94
+1111,2026-01-03,Sofia Rossi,Backpack,Accessories,5.0,45.0,West,M. Owens,False,225.0
+1147,2026-01-08,Carlos Mendez,Notebook,Office,1.0,4.5,East,K. Chen,True,4.5
+1082,2026-01-10,David Kim,Phone Case,Accessories,6.0,14.99,North,M. Owens,False,89.94
+1158,2026-01-17,John Smith,Notebook,Office,1.0,4.5,North,J. Patel,False,4.5
+1017,2026-01-19,Sofia Rossi,Coffee Mug,Home,6.0,9.99,West,K. Chen,False,59.94
+1039,2026-01-20,Fatima Al-Rashid,Wireless Mouse,Electronics,1.0,19.99,North,J. Patel,False,19.99
+1113,2026-01-24,Emma Wilson,Backpack,Accessories,4.0,45.0,West,J. Patel,False,180.0
+1172,2026-02-04,Maria Santos,Wireless Mouse,Electronics,6.0,19.99,West,J. Patel,False,119.94
+1070,2026-02-05,Carlos Mendez,Wireless Mouse,Electronics,3.0,19.99,East,K. Chen,False,59.97
+1051,2026-02-06,Ahmed Hassan,Water Bottle,Home,3.0,12.0,North,K. Chen,False,36.0
+1020,2026-02-08,Emma Wilson,Laptop,Electronics,5.0,899.99,West,R. Diaz,False,4499.95
+1118,2026-02-09,Liu Wei,Headphones,Electronics,2.0,59.99,South,M. Owens,False,119.98
+1101,2026-02-10,Maria Santos,Desk Lamp,Home,5.0,24.5,South,M. Owens,False,122.5
+1167,2026-02-12,Carlos Mendez,Phone Case,Accessories,1.0,14.99,South,K. Chen,False,14.99
+1003,2026-02-13,James O'Connor,Headphones,Electronics,5.0,59.99,North,R. Diaz,False,299.95
+1031,2026-02-15,Carlos Mendez,Headphones,Electronics,2.0,59.99,South,K. Chen,True,119.98
+1053,2026-02-15,Maria Santos,Coffee Mug,Home,5.0,9.99,South,K. Chen,False,49.95
+1058,2026-02-15,Sofia Rossi,Headphones,Electronics,1.0,59.99,North,R. Diaz,False,59.99
+1098,2026-02-17,Aisha Bello,Coffee Mug,Home,2.0,9.99,South,M. Owens,False,19.98
+1094,2026-02-17,Liu Wei,Backpack,Accessories,1.0,45.0,West,K. Chen,False,45.0
+1018,2026-02-19,John Smith,Wireless Mouse,Electronics,1.0,19.99,South,,False,19.99
+1026,2026-02-25,Carlos Mendez,Desk Lamp,Home,2.0,24.5,West,R. Diaz,True,49.0
+1047,2026-02-27,Fatima Al-Rashid,Wireless Mouse,Electronics,6.0,19.99,South,R. Diaz,False,119.94
+1081,2026-02-27,Tom Becker,Monitor,Electronics,3.0,219.0,North,R. Diaz,False,657.0
+1157,2026-03-01,Grace Park,Wireless Mouse,Electronics,4.0,19.99,North,K. Chen,False,79.96
+1065,2026-03-06,Carlos Mendez,Laptop,Electronics,2.0,899.99,East,M. Owens,False,1799.98
+1024,2026-03-08,Fatima Al-Rashid,Backpack,Accessories,5.0,45.0,South,K. Chen,False,225.0
+1040,2026-03-10,Sofia Rossi,Water Bottle,Home,2.0,12.0,South,K. Chen,False,24.0
+1023,2026-03-14,Maria Santos,Wireless Mouse,Electronics,2.0,19.99,West,J. Patel,False,39.98
+1165,2026-03-14,James O'Connor,Monitor,Electronics,4.0,219.0,East,J. Patel,False,876.0
+1148,2026-03-17,Sofia Rossi,Water Bottle,Home,2.0,12.0,North,R. Diaz,False,24.0
+1009,2026-03-17,Tom Becker,Backpack,Accessories,6.0,45.0,North,M. Owens,False,270.0
+1116,2026-03-20,Ahmed Hassan,Desk Lamp,Home,5.0,24.5,South,K. Chen,False,122.5
+1175,2026-03-24,James O'Connor,Notebook,Office,1.0,4.5,West,R. Diaz,True,4.5
+1137,2026-03-24,John Smith,Coffee Mug,Home,5.0,9.99,West,J. Patel,False,49.95
+1087,2026-03-25,Fatima Al-Rashid,Wireless Mouse,Electronics,1.0,19.99,East,K. Chen,True,19.99
+1150,2026-03-25,David Kim,Laptop,Electronics,3.0,899.99,East,M. Owens,False,2699.9700000000003
+1091,2026-03-25,James O'Connor,Backpack,Accessories,2.0,45.0,South,K. Chen,False,90.0
+1114,2026-03-28,Priya Nair,Coffee Mug,Home,3.0,9.99,East,K. Chen,False,29.97
+1005,2026-04-06,Carlos Mendez,Backpack,Accessories,6.0,45.0,South,M. Owens,False,270.0
+1133,2026-04-07,Carlos Mendez,Phone Case,Accessories,3.0,14.99,East,M. Owens,False,44.97
+1131,2026-04-08,Aisha Bello,Notebook,Office,6.0,4.5,East,R. Diaz,False,27.0
+1057,2026-04-09,Maria Santos,Wireless Mouse,Electronics,5.0,19.99,West,K. Chen,False,99.94999999999999
+1155,2026-04-13,Carlos Mendez,Desk Lamp,Home,5.0,24.5,South,R. Diaz,False,122.5
+1153,2026-04-18,Sofia Rossi,Laptop,Electronics,2.0,899.99,South,R. Diaz,False,1799.98
+1068,2026-04-21,Lucas Ferreira,Coffee Mug,Home,3.0,9.99,North,M. Owens,False,29.97
+1106,2026-04-24,David Kim,Monitor,Electronics,3.0,219.0,West,R. Diaz,False,657.0
+1074,2026-04-28,Tom Becker,Headphones,Electronics,1.0,59.99,West,R. Diaz,False,59.99
+1136,2026-05-02,Lucas Ferreira,Phone Case,Accessories,4.0,14.99,West,R. Diaz,False,59.96
+1132,2026-05-04,Sofia Rossi,Coffee Mug,Home,3.0,9.99,South,R. Diaz,False,29.97
+1046,2026-05-09,John Smith,Water Bottle,Home,6.0,12.0,East,J. Patel,False,72.0
+1110,2026-05-10,Tom Becker,Headphones,Electronics,5.0,59.99,West,K. Chen,False,299.95
+1021,2026-05-10,Lucas Ferreira,Water Bottle,Home,3.0,12.0,North,R. Diaz,False,36.0
+1034,2026-05-15,Ahmed Hassan,Notebook,Office,3.0,4.5,West,R. Diaz,False,13.5
+1078,2026-05-15,John Smith,Wireless Mouse,Electronics,1.0,19.99,North,K. Chen,False,19.99
+1043,2026-05-15,Tom Becker,Water Bottle,Home,3.0,12.0,West,K. Chen,False,36.0
+1146,2026-05-15,John Smith,Backpack,Accessories,6.0,45.0,North,M. Owens,False,270.0
+1161,2026-05-18,Fatima Al-Rashid,Wireless Mouse,Electronics,5.0,19.99,North,J. Patel,False,99.94999999999999
+1071,2026-05-19,Ahmed Hassan,Wireless Mouse,Electronics,5.0,19.99,East,J. Patel,False,99.94999999999999
+1066,2026-05-22,Priya Nair,Notebook,Office,3.0,4.5,South,R. Diaz,False,13.5
+1067,2026-05-23,Grace Park,Monitor,Electronics,4.0,219.0,East,K. Chen,False,876.0
+1100,2026-05-25,Ahmed Hassan,Desk Lamp,Home,3.0,24.5,South,M. Owens,False,73.5
+1076,2026-05-28,Fatima Al-Rashid,Headphones,Electronics,3.0,59.99,South,M. Owens,False,179.97
+1163,2026-06-01,James O'Connor,Wireless Mouse,Electronics,3.0,19.99,East,M. Owens,False,59.97
+1117,2026-06-05,Grace Park,Wireless Mouse,Electronics,3.0,19.99,West,J. Patel,False,59.97
+1177,2026-06-07,Ahmed Hassan,Desk Lamp,Home,5.0,24.5,South,K. Chen,False,122.5
+1007,2026-06-08,Fatima Al-Rashid,Phone Case,Accessories,3.0,14.99,East,J. Patel,False,44.97
+1056,2026-06-09,Sofia Rossi,Phone Case,Accessories,4.0,14.99,East,J. Patel,False,59.96
+1096,2026-06-10,Grace Park,Coffee Mug,Home,2.0,9.99,East,J. Patel,False,19.98
+1121,2026-06-13,Priya Nair,Notebook,Office,2.0,4.5,West,J. Patel,False,9.0
+1028,2026-06-14,John Smith,Laptop,Electronics,6.0,899.99,West,R. Diaz,False,5399.9400000000005
+1027,2026-06-14,Liu Wei,Laptop,Electronics,1.0,899.99,North,R. Diaz,False,899.99
+1086,2026-06-14,David Kim,Headphones,Electronics,4.0,59.99,East,K. Chen,False,239.96
+1174,2026-06-15,James O'Connor,Backpack,Accessories,1.0,45.0,North,J. Patel,False,45.0
+1168,2026-06-15,James O'Connor,Water Bottle,Home,4.0,12.0,South,M. Owens,False,48.0
+1022,2026-06-25,Lucas Ferreira,Wireless Mouse,Electronics,1.0,19.99,West,K. Chen,False,19.99
+1010,2026-06-27,John Smith,Phone Case,Accessories,1.0,14.99,East,J. Patel,False,14.99
+1001,2026-07-02,Fatima Al-Rashid,Headphones,Electronics,1.0,59.99,North,J. Patel,False,59.99
+1171,2026-07-03,Priya Nair,Headphones,Electronics,2.0,59.99,West,K. Chen,False,119.98
+1084,2026-07-03,Sofia Rossi,Laptop,Electronics,3.0,899.99,South,J. Patel,True,2699.9700000000003
+1102,2026-07-03,Grace Park,Monitor,Electronics,1.0,219.0,North,J. Patel,False,219.0
+1019,2026-07-05,Emma Wilson,Headphones,Electronics,3.0,59.99,West,J. Patel,False,179.97
+1004,2026-07-09,James O'Connor,Water Bottle,Home,3.0,12.0,South,R. Diaz,False,36.0
+1038,2026-07-09,Grace Park,Headphones,Electronics,3.0,59.99,West,J. Patel,False,179.97
+1109,2026-07-11,Carlos Mendez,Backpack,Accessories,4.0,45.0,North,R. Diaz,False,180.0
+1099,2026-07-12,Liu Wei,Water Bottle,Home,5.0,12.0,West,K. Chen,False,60.0
+1042,2026-07-12,Aisha Bello,Backpack,Accessories,3.0,45.0,West,R. Diaz,True,135.0
+1159,2026-07-15,Fatima Al-Rashid,Headphones,Electronics,3.0,59.99,South,J. Patel,False,179.97
+1080,2026-07-15,Ahmed Hassan,Notebook,Office,6.0,4.5,West,K. Chen,False,27.0
+1036,2026-07-18,Priya Nair,Water Bottle,Home,3.0,12.0,North,K. Chen,False,36.0
+1112,2026-07-19,David Kim,Laptop,Electronics,2.0,899.99,South,R. Diaz,False,1799.98
+1160,2026-07-21,Tom Becker,Laptop,Electronics,1.0,899.99,North,J. Patel,False,899.99
+1162,2026-07-22,Grace Park,Desk Lamp,Home,3.0,24.5,South,J. Patel,False,73.5
+1088,2026-07-28,Tom Becker,Monitor,Electronics,5.0,219.0,South,J. Patel,False,1095.0
+1083,2026-07-28,Grace Park,Phone Case,Accessories,3.0,14.99,West,R. Diaz,False,44.97
+1062,2026-08-01,John Smith,Notebook,Office,1.0,4.5,North,M. Owens,False,4.5
+1104,2026-08-03,Ahmed Hassan,Wireless Mouse,Electronics,1.0,19.99,West,J. Patel,True,19.99
+1048,2026-08-04,Maria Santos,Laptop,Electronics,3.0,899.99,South,K. Chen,False,2699.9700000000003
+1180,2026-08-05,Carlos Mendez,Wireless Mouse,Electronics,4.0,19.99,South,K. Chen,False,79.96
+1050,2026-08-15,John Smith,Headphones,Electronics,5.0,59.99,South,R. Diaz,False,299.95
+1143,2026-08-19,Emma Wilson,Headphones,Electronics,4.0,59.99,South,R. Diaz,False,239.96
+1107,2026-08-21,John Smith,Phone Case,Accessories,2.0,14.99,North,K. Chen,False,29.98
+1061,2026-08-23,Sofia Rossi,Notebook,Office,2.0,4.5,East,M. Owens,False,9.0
+1072,2026-08-23,Emma Wilson,Desk Lamp,Home,3.0,24.5,West,J. Patel,False,73.5
+1015,2026-08-26,John Smith,Desk Lamp,Home,2.0,24.5,South,J. Patel,False,49.0
+1151,2026-08-28,Tom Becker,Notebook,Office,4.0,4.5,North,M. Owens,False,18.0
+1145,2026-08-28,Ahmed Hassan,Monitor,Electronics,6.0,219.0,South,M. Owens,False,1314.0
+1170,2026-09-01,Aisha Bello,Monitor,Electronics,2.0,219.0,East,R. Diaz,False,438.0
+1144,2026-09-02,Grace Park,Laptop,Electronics,5.0,899.99,West,R. Diaz,False,4499.95
+1097,2026-09-03,Ahmed Hassan,Coffee Mug,Home,6.0,9.99,West,,False,59.94
+1013,2026-09-05,Lucas Ferreira,Laptop,Electronics,1.0,899.99,South,K. Chen,False,899.99
+1152,2026-09-07,David Kim,Laptop,Electronics,1.0,899.99,East,R. Diaz,False,899.99
+1008,2026-09-09,Liu Wei,Headphones,Electronics,5.0,59.99,South,R. Diaz,False,299.95
+1138,2026-09-11,David Kim,Backpack,Accessories,5.0,45.0,East,M. Owens,False,225.0
+1130,2026-09-11,John Smith,Monitor,Electronics,6.0,219.0,South,M. Owens,False,1314.0
+1063,2026-09-13,Aisha Bello,Headphones,Electronics,6.0,59.99,West,K. Chen,False,359.94
+1126,2026-09-13,Aisha Bello,Phone Case,Accessories,5.0,14.99,North,R. Diaz,False,74.95
+1125,2026-09-15,Maria Santos,Backpack,Accessories,5.0,45.0,West,J. Patel,False,225.0
+1035,2026-09-15,Liu Wei,Backpack,Accessories,2.0,45.0,North,K. Chen,False,90.0
+1108,2026-09-16,Maria Santos,Laptop,Electronics,3.0,899.99,East,R. Diaz,False,2699.9700000000003
+1030,2026-09-16,Tom Becker,Coffee Mug,Home,6.0,9.99,East,R. Diaz,False,59.94
+1156,2026-09-16,David Kim,Coffee Mug,Home,2.0,9.99,West,J. Patel,False,19.98
+1090,2026-09-21,James O'Connor,Monitor,Electronics,6.0,219.0,West,R. Diaz,False,1314.0
+1011,2026-09-28,Ahmed Hassan,Headphones,Electronics,2.0,59.99,West,M. Owens,False,119.98
+1103,2026-10-01,Maria Santos,Backpack,Accessories,6.0,45.0,South,M. Owens,False,270.0
+1119,2026-10-02,Emma Wilson,Coffee Mug,Home,2.0,9.99,North,R. Diaz,False,19.98
+1085,2026-10-03,Tom Becker,Wireless Mouse,Electronics,3.0,19.99,South,J. Patel,False,59.97
+1179,2026-10-13,Carlos Mendez,Backpack,Accessories,6.0,45.0,North,M. Owens,False,270.0
+1122,2026-10-14,James O'Connor,Backpack,Accessories,2.0,45.0,South,R. Diaz,False,90.0
+1059,2026-10-17,Grace Park,Wireless Mouse,Electronics,2.0,19.99,East,K. Chen,False,39.98
+1142,2026-10-18,Sofia Rossi,Wireless Mouse,Electronics,1.0,19.99,West,K. Chen,False,19.99
+1037,2026-10-18,David Kim,Laptop,Electronics,6.0,899.99,West,J. Patel,False,5399.9400000000005
+1012,2026-10-18,David Kim,Coffee Mug,Home,4.0,9.99,West,,False,39.96
+1054,2026-10-19,Lucas Ferreira,Notebook,Office,5.0,4.5,North,R. Diaz,False,22.5
+1079,2026-10-21,Sofia Rossi,Monitor,Electronics,1.0,219.0,North,R. Diaz,False,219.0
+1173,2026-10-23,Ahmed Hassan,Water Bottle,Home,1.0,12.0,West,M. Owens,False,12.0
+1044,2026-10-23,Grace Park,Backpack,Accessories,2.0,45.0,North,M. Owens,False,90.0
+1149,2026-10-24,Carlos Mendez,Water Bottle,Home,5.0,12.0,East,K. Chen,False,60.0
+1127,2026-10-24,Emma Wilson,Notebook,Office,3.0,4.5,West,K. Chen,False,13.5
+1041,2026-10-26,Emma Wilson,Monitor,Electronics,2.0,219.0,South,J. Patel,False,438.0
+1105,2026-11-03,Liu Wei,Wireless Mouse,Electronics,5.0,19.99,South,J. Patel,False,99.94999999999999
+1014,2026-11-04,David Kim,Desk Lamp,Home,4.0,24.5,North,J. Patel,False,98.0
+1120,2026-11-13,David Kim,Desk Lamp,Home,5.0,24.5,West,M. Owens,False,122.5
+1029,2026-11-13,Carlos Mendez,Headphones,Electronics,4.0,59.99,East,J. Patel,False,239.96
+1135,2026-11-19,David Kim,Monitor,Electronics,3.0,219.0,West,J. Patel,False,657.0
+1052,2026-11-19,Carlos Mendez,Coffee Mug,Home,4.0,9.99,North,M. Owens,False,39.96
+1095,2026-11-21,Aisha Bello,Wireless Mouse,Electronics,4.0,19.99,South,K. Chen,False,79.96
+1049,2026-11-22,Carlos Mendez,Backpack,Accessories,1.0,45.0,South,R. Diaz,False,45.0
+1178,2026-11-23,Tom Becker,Wireless Mouse,Electronics,1.0,19.99,East,M. Owens,False,19.99
+1064,2026-11-23,Fatima Al-Rashid,Wireless Mouse,Electronics,2.0,19.99,North,J. Patel,False,39.98
+1141,2026-11-27,Sofia Rossi,Notebook,Office,4.0,4.5,South,J. Patel,False,18.0
+1093,2026-12-02,David Kim,Backpack,Accessories,5.0,45.0,East,M. Owens,False,225.0
+1164,2026-12-03,Liu Wei,Backpack,Accessories,4.0,45.0,West,M. Owens,False,180.0
+1129,2026-12-04,John Smith,Laptop,Electronics,4.0,899.99,West,M. Owens,False,3599.96
+1140,2026-12-04,Carlos Mendez,Laptop,Electronics,5.0,899.99,North,M. Owens,False,4499.95
+1025,2026-12-04,Lucas Ferreira,Laptop,Electronics,6.0,899.99,South,M. Owens,False,5399.9400000000005
+1006,2026-12-11,Grace Park,Backpack,Accessories,4.0,45.0,North,K. Chen,False,180.0
+1077,2026-12-14,Maria Santos,Headphones,Electronics,5.0,59.99,North,R. Diaz,False,299.95
+1069,2026-12-14,Ahmed Hassan,Headphones,Electronics,3.0,59.99,North,R. Diaz,False,179.97
+1134,2026-12-16,Maria Santos,Headphones,Electronics,2.0,59.99,South,M. Owens,False,119.98
+1033,2026-12-17,David Kim,Notebook,Office,5.0,4.5,South,M. Owens,False,22.5
+1032,2026-12-17,Liu Wei,Notebook,Office,1.0,4.5,West,J. Patel,False,4.5
+1073,2026-12-18,James O'Connor,Laptop,Electronics,2.0,899.99,East,K. Chen,False,1799.98
+1139,2026-12-19,Maria Santos,Notebook,Office,4.0,4.5,East,M. Owens,False,18.0
+1176,2026-12-20,Fatima Al-Rashid,Wireless Mouse,Electronics,2.0,19.99,West,J. Patel,False,39.98
+1169,2026-12-21,Sofia Rossi,Coffee Mug,Home,2.0,9.99,East,R. Diaz,False,19.98
+1115,2026-12-23,Aisha Bello,Headphones,Electronics,5.0,59.99,East,J. Patel,False,299.95
+1128,2026-12-28,Grace Park,Water Bottle,Home,6.0,12.0,East,M. Owens,False,72.0

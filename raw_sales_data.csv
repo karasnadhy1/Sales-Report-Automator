@@ -1,0 +1,187 @@
+order_id,order_date,customer_name,product,category,quantity,unit_price,region,sales_rep
+1152,9/7/2026,David Kim,Laptop,Electronics,1,899.99 ,east,R. Diaz
+1130,9/11/2026,John Smith,Monitor,electronics,6,219.0,south,M. Owens
+1163,1-6-2026,James O'Connor,Wireless Mouse,Electronics,3,19.99,East,M. Owens
+1156,2026-09-16,David Kim,Coffee Mug,home,2,9.99, West,J. Patel
+1134,12/16/2026,Maria Santos,Headphones,ELECTRONICS,2,59.99,South,M. Owens
+1099,2026-07-12,Liu Wei,Water Bottle,HOME,5,12.0,West,K. Chen
+1039,2026-01-20,Fatima Al-Rashid,Wireless Mouse,ELECTRONICS,1,19.99 ,NORTH,J. Patel
+1096,6/10/2026,Grace Park,Coffee Mug,HOME,2,$9.99,EAST,J. Patel
+1088,7/28/2026,Tom Becker,Monitor,Electronics,5,219.0,South,J. Patel
+1021,2026-05-10,Lucas Ferreira,Water Bottle,Home,3,12.0,NORTH,R. Diaz
+1102,3-7-2026,Grace Park,Monitor,electronics,1,219.00 ,north,J. Patel
+1086,6/14/2026,David Kim,Headphones,ELECTRONICS,4,59.99 ,east,K. Chen
+1103,10/1/2026,Maria Santos,Backpack,accessories,6,$45.00,South,M. Owens
+1034,5/15/2026,Ahmed Hassan,Notebook,OFFICE,3,4.5,west,R. Diaz
+1038,7/9/2026,Grace Park,Headphones,Electronics,3,59.99 ,West,J. Patel
+1027,6/14/2026,Liu Wei,Laptop,electronics,1,899.99,NORTH,R. Diaz
+1167,12-2-2026,Carlos Mendez,Phone Case,Accessories,1,14.99,south,K. Chen
+1100,5/25/2026,Ahmed Hassan,Desk Lamp,Home,3,24.5,south,M. Owens
+1148,17-3-2026,  Sofia Rossi  ,Water Bottle,home,2,12.00 ,north,R. Diaz
+1040,3/10/2026,Sofia Rossi,Water Bottle,home,2,12.0,south,K. Chen
+1041,10/26/2026,Emma Wilson,Monitor,ELECTRONICS,2,219.0,South,J. Patel
+1149,2026-10-24,Carlos Mendez,Water Bottle,HOME,5,12.0,East,K. Chen
+1033,12/17/2026,David Kim,Notebook,OFFICE,5,4.5,south,M. Owens
+1073,12/18/2026,  James O'Connor  ,Laptop,ELECTRONICS,2,899.99,east,K. Chen
+1027,6/14/2026,Liu Wei,Laptop,electronics,1,899.99,NORTH,R. Diaz
+1151,28-8-2026,Tom Becker,Notebook,Office,4,$4.50,N.,M. Owens
+1062,2026-08-01,John Smith,Notebook,office,1,4.5,north,M. Owens
+1114,3/28/2026,Priya Nair,Coffee Mug,HOME,3,9.99,EAST,K. Chen
+1005,4/6/2026,Carlos Mendez,Backpack,ACCESSORIES,6,45.0,SOUTH,M. Owens
+1003,2/13/2026,James O'Connor,Headphones,electronics,5,59.99,N.,R. Diaz
+1176,2026-12-20,Fatima Al-Rashid,Wireless Mouse,ELECTRONICS,2,19.99,west,J. Patel
+1014,11/4/2026,David Kim,Desk Lamp,home,4,24.5,North,J. Patel
+1158,1/17/2026,John Smith,Notebook,Office,1,4.5,North,J. Patel
+1067,23-5-2026,Grace Park,Monitor,electronics,4,$219.00,east,K. Chen
+1142,2026-10-18,Sofia Rossi,Wireless Mouse,ELECTRONICS,1,$19.99, West,K. Chen
+1146,5/15/2026,John Smith,Backpack,Accessories,6,45.0,north,M. Owens
+1015,8/26/2026,John Smith,Desk Lamp,home,2,$24.50,South,J. Patel
+1050,15-8-2026,John Smith,Headphones,ELECTRONICS,5,59.99,South,R. Diaz
+1026,25-2-2026,Carlos Mendez,Desk Lamp,Home,-2,24.5,west,R. Diaz
+1004,7/9/2026,  James O'Connor  ,Water Bottle,Home,3,12.0,SOUTH,R. Diaz
+1101,2/10/2026,Maria Santos,Desk Lamp,home,5,24.5,south,M. Owens
+1162,22-7-2026,Grace Park,Desk Lamp,Home,3,24.5,SOUTH,J. Patel
+1047,2026-02-27,Fatima Al-Rashid,Wireless Mouse,electronics,6,19.99 ,South,R. Diaz
+1070,2026-02-05,Carlos Mendez,Wireless Mouse,electronics,3,19.99,East,K. Chen
+1024,2026-03-08,Fatima Al-Rashid,Backpack,accessories,5,45.0,SOUTH,K. Chen
+1080,2026-07-15,Ahmed Hassan,Notebook,OFFICE,6,4.5,West,K. Chen
+1095,21-11-2026,Aisha Bello,Wireless Mouse,electronics,4,$19.99,south,K. Chen
+1018,2026-02-19,  John Smith  ,Wireless Mouse,Electronics,1,19.99,South,
+1076,2026-05-28,Fatima Al-Rashid,Headphones,Electronics,3,59.99,SOUTH,M. Owens
+1020,8-2-2026,Emma Wilson,Laptop,Electronics,5,899.99 , West,R. Diaz
+1128,12/28/2026,  Grace Park  ,Water Bottle,home,6,12.0,east,M. Owens
+1123,,Ahmed Hassan,Water Bottle,HOME,4,12.0,East,M. Owens
+1045,3-1-2026,Tom Becker,Headphones,Electronics,6,59.99 ,SOUTH,R. Diaz
+1065,2026-03-06,Carlos Mendez,Laptop,electronics,2,$899.99,East,M. Owens
+1154,7-6-2026,John Smith,Coffee Mug,home,1,,east,
+1143,8/19/2026,Emma Wilson,Headphones,ELECTRONICS,4,59.99,SOUTH,R. Diaz
+1166,2026-02-24,  John Smith  ,Laptop,ELECTRONICS,,899.99,NORTH,K. Chen
+1168,15-6-2026,James O'Connor,Water Bottle,Home,4,12.0,south,M. Owens
+1161,5/18/2026,Fatima Al-Rashid,Wireless Mouse,ELECTRONICS,5,$19.99,north,J. Patel
+1078,5/15/2026,John Smith,Wireless Mouse,ELECTRONICS,1,$19.99,N.,K. Chen
+1060,16-9-2026,Carlos Mendez,Backpack,ACCESSORIES,5,,East,K. Chen
+1029,2026-11-13,Carlos Mendez,Headphones,electronics,4,59.99,EAST,J. Patel
+1002,3/23/2026,David Kim,Wireless Mouse,electronics,2,,SOUTH,R. Diaz
+1085,10/3/2026,Tom Becker,Wireless Mouse,Electronics,3,$19.99,south,J. Patel
+1013,9/5/2026,  Lucas Ferreira  ,Laptop,electronics,1,899.99 ,South,K. Chen
+1006,2026-12-11,  Grace Park  ,Backpack,accessories,4,45.0,north,K. Chen
+1007,2026-06-08,Fatima Al-Rashid,Phone Case,ACCESSORIES,3,14.99,East,J. Patel
+1136,5/2/2026,Lucas Ferreira,Phone Case,accessories,4,14.99 ,West,R. Diaz
+1121,2026-06-13,Priya Nair,Notebook,OFFICE,2,4.5,west,J. Patel
+1119,10/2/2026,Emma Wilson,Coffee Mug,Home,2,$9.99,north,R. Diaz
+1178,23-11-2026,Tom Becker,Wireless Mouse,ELECTRONICS,1,19.99,EAST,M. Owens
+1135,2026-11-19,David Kim,Monitor,electronics,3,219.0,west,J. Patel
+1037,10/18/2026,David Kim,Laptop,electronics,6,899.99,west,J. Patel
+1093,12/2/2026,David Kim,Backpack,Accessories,5,45.0,East,M. Owens
+1104,8/3/2026,Ahmed Hassan,Wireless Mouse,electronics,-1,19.99,West,J. Patel
+1155,2026-04-13,Carlos Mendez,Desk Lamp,HOME,5,24.5,South,R. Diaz
+1079,21-10-2026,Sofia Rossi,Monitor,Electronics,1,219.0,N.,R. Diaz
+1055,8/3/2026,Priya Nair,Water Bottle,home,3,,north,J. Patel
+1028,6/14/2026,John Smith,Laptop,ELECTRONICS,6,899.99,West,R. Diaz
+1157,2026-03-01,Grace Park,Wireless Mouse,Electronics,4,19.99,North,K. Chen
+1169,12/21/2026,Sofia Rossi,Coffee Mug,home,2,9.99,EAST,R. Diaz
+1153,18-4-2026,Sofia Rossi,Laptop,electronics,2,899.99,South,R. Diaz
+1046,2026-05-09,John Smith,Water Bottle,home,6,$12.00,east,J. Patel
+1112,7/19/2026,David Kim,Laptop,Electronics,2,899.99,SOUTH,R. Diaz
+1091,3/25/2026,James O'Connor,Backpack,Accessories,2,45.0,South,K. Chen
+1097,9/3/2026,Ahmed Hassan,Coffee Mug,Home,6,9.99, West,
+1001,7/2/2026,Fatima Al-Rashid,Headphones,ELECTRONICS,1,$59.99,NORTH,J. Patel
+1132,5/4/2026,Sofia Rossi,Coffee Mug,home,3,9.99,SOUTH,R. Diaz
+1115,2026-12-23,Aisha Bello,Headphones,ELECTRONICS,5,59.99,EAST,J. Patel
+1120,13-11-2026,  David Kim  ,Desk Lamp,HOME,5,24.5, West,M. Owens
+1059,2026-10-17,Grace Park,Wireless Mouse,electronics,2,19.99,east,K. Chen
+1048,8/4/2026,Maria Santos,Laptop,ELECTRONICS,3,899.99,south,K. Chen
+1089,15-10-2026,Tom Becker,Backpack,accessories,,$45.00, West,M. Owens
+1125,15-9-2026,Maria Santos,Backpack,ACCESSORIES,5,45.0,west,J. Patel
+1066,2026-05-22,Priya Nair,Notebook,office,3,$4.50,South,R. Diaz
+1052,2026-11-19,Carlos Mendez,Coffee Mug,HOME,4,9.99,north,M. Owens
+1012,2026-10-18,David Kim,Coffee Mug,HOME,4,9.99, West,
+1082,10-1-2026,David Kim,Phone Case,accessories,6,14.99,NORTH,M. Owens
+1010,27-6-2026,John Smith,Phone Case,ACCESSORIES,1,14.99 ,East,J. Patel
+1177,6/7/2026,Ahmed Hassan,Desk Lamp,Home,5,$24.50,south,K. Chen
+1049,11/22/2026,Carlos Mendez,Backpack,accessories,1,$45.00,South,R. Diaz
+1172,2026-02-04,Maria Santos,Wireless Mouse,electronics,6,19.99, West,J. Patel
+1105,3-11-2026,Liu Wei,Wireless Mouse,Electronics,5,$19.99,SOUTH,J. Patel
+1129,2026-12-04,John Smith,Laptop,ELECTRONICS,4,$899.99,West,M. Owens
+1081,2/27/2026,Tom Becker,Monitor,electronics,3,$219.00,NORTH,R. Diaz
+1175,2026-03-24,James O'Connor,Notebook,OFFICE,-1,4.5,west,R. Diaz
+1117,2026-06-05,Grace Park,Wireless Mouse,Electronics,3,19.99,west,J. Patel
+1063,13-9-2026,Aisha Bello,Headphones,electronics,6,59.99,west,K. Chen
+1051,2/6/2026,Ahmed Hassan,Water Bottle,Home,3,12.0,North,K. Chen
+1087,25-3-2026,Fatima Al-Rashid,Wireless Mouse,ELECTRONICS,-1,19.99 ,East,K. Chen
+1108,16-9-2026,Maria Santos,Laptop,Electronics,3,$899.99,East,R. Diaz
+1098,2/17/2026,Aisha Bello,Coffee Mug,home,2,9.99,South,M. Owens
+1171,7/3/2026,Priya Nair,Headphones,electronics,2,59.99, West,K. Chen
+1107,2026-08-21,John Smith,Phone Case,ACCESSORIES,2,14.99,NORTH,K. Chen
+1042,7/12/2026,  Aisha Bello  ,Backpack,ACCESSORIES,-3,45.0, West,R. Diaz
+1092,1/12/2026,Aisha Bello,Water Bottle,Home,4,,EAST,J. Patel
+1019,5-7-2026,Emma Wilson,Headphones,electronics,3,59.99, West,J. Patel
+1032,12/17/2026,Liu Wei,Notebook,Office,1,$4.50,West,J. Patel
+1122,2026-10-14,James O'Connor,Backpack,Accessories,2,45.0,south,R. Diaz
+1124,,Maria Santos,Desk Lamp,HOME,6,$24.50,East,R. Diaz
+1137,3/24/2026,John Smith,Coffee Mug,Home,5,9.99, West,J. Patel
+1017,1/19/2026,Sofia Rossi,Coffee Mug,HOME,6,9.99, West,K. Chen
+1084,2026-07-03,Sofia Rossi,Laptop,electronics,-3,899.99,south,J. Patel
+1111,1/3/2026,Sofia Rossi,Backpack,accessories,5,45.0,West,M. Owens
+1170,9/1/2026,Aisha Bello,Monitor,ELECTRONICS,2,219.0,east,R. Diaz
+1044,23-10-2026,Grace Park,Backpack,accessories,2,45.0,N.,M. Owens
+1173,2026-10-23,Ahmed Hassan,Water Bottle,Home,1,12.0,west,M. Owens
+1106,4/24/2026,David Kim,Monitor,electronics,3,219.0,West,R. Diaz
+1035,9/15/2026,Liu Wei,Backpack,ACCESSORIES,2,$45.00,north,K. Chen
+1025,12/4/2026,Lucas Ferreira,Laptop,electronics,6,899.99,SOUTH,M. Owens
+1165,3/14/2026,  James O'Connor  ,Monitor,electronics,4,219.0,east,J. Patel
+1133,7-4-2026,Carlos Mendez,Phone Case,Accessories,3,14.99,East,M. Owens
+1180,2026-08-05,Carlos Mendez,Wireless Mouse,electronics,4,19.99,south,K. Chen
+1083,7/28/2026,Grace Park,Phone Case,ACCESSORIES,3,14.99,West,R. Diaz
+1174,2026-06-15,James O'Connor,Backpack,Accessories,1,45.0,N.,J. Patel
+1072,23-8-2026,Emma Wilson,Desk Lamp,HOME,3,24.5,West,J. Patel
+1144,9/2/2026,  Grace Park  ,Laptop,Electronics,5,899.99,west,R. Diaz
+1016,,Tom Becker,Headphones,Electronics,4,59.99,South,K. Chen
+1159,2026-07-15,Fatima Al-Rashid,Headphones,electronics,3,59.99,South,J. Patel
+1053,15-2-2026,Maria Santos,Coffee Mug,home,5,9.99,South,K. Chen
+1036,2026-07-18,  Priya Nair  ,Water Bottle,home,3,12.0,N.,K. Chen
+1046,2026-05-09,John Smith,Water Bottle,home,6,$12.00,east,J. Patel
+1110,5/10/2026,Tom Becker,Headphones,Electronics,5,59.99,West,K. Chen
+1150,3/25/2026,David Kim,Laptop,ELECTRONICS,3,899.99 ,EAST,M. Owens
+1054,10/19/2026,Lucas Ferreira,Notebook,office,5,4.5,North,R. Diaz
+1061,8/23/2026,Sofia Rossi,Notebook,office,2,4.5,East,M. Owens
+1031,2/15/2026,Carlos Mendez,Headphones,Electronics,-2,59.99,SOUTH,K. Chen
+1160,21-7-2026,Tom Becker,Laptop,electronics,1,899.99,N.,J. Patel
+1023,2026-03-14,Maria Santos,Wireless Mouse,ELECTRONICS,2,$19.99, West,J. Patel
+1090,9/21/2026,James O'Connor,Monitor,electronics,6,219.0, West,R. Diaz
+1068,2026-04-21,Lucas Ferreira,Coffee Mug,home,3,9.99,North,M. Owens
+1116,3/20/2026,Ahmed Hassan,Desk Lamp,home,5,$24.50,South,K. Chen
+1179,10/13/2026,Carlos Mendez,Backpack,accessories,6,$45.00,north,M. Owens
+1077,12/14/2026,Maria Santos,Headphones,Electronics,5,59.99,north,R. Diaz
+1064,11/23/2026,Fatima Al-Rashid,Wireless Mouse,electronics,2,19.99,North,J. Patel
+1027,6/14/2026,Liu Wei,Laptop,electronics,1,899.99,NORTH,R. Diaz
+1109,2026-07-11,Carlos Mendez,Backpack,accessories,4,45.0,NORTH,R. Diaz
+1056,9-6-2026,Sofia Rossi,Phone Case,ACCESSORIES,4,$14.99,east,J. Patel
+1164,12/3/2026,Liu Wei,Backpack,ACCESSORIES,4,45.00 ,west,M. Owens
+1113,2026-01-24,Emma Wilson,Backpack,accessories,4,45.0,West,J. Patel
+1011,9/28/2026,Ahmed Hassan,Headphones,Electronics,2,59.99,West,M. Owens
+1139,12/19/2026,Maria Santos,Notebook,Office,4,4.50 ,East,M. Owens
+1094,2026-02-17,Liu Wei,Backpack,accessories,1,$45.00, West,K. Chen
+1140,4-12-2026,Carlos Mendez,Laptop,ELECTRONICS,5,899.99,N.,M. Owens
+1069,2026-12-14,Ahmed Hassan,Headphones,ELECTRONICS,3,59.99 ,NORTH,R. Diaz
+1030,2026-09-16,Tom Becker,Coffee Mug,HOME,6,9.99,East,R. Diaz
+1147,2026-01-08,Carlos Mendez,Notebook,OFFICE,-1,$4.50,East,K. Chen
+1029,2026-11-13,Carlos Mendez,Headphones,electronics,4,59.99,EAST,J. Patel
+1131,8-4-2026,Aisha Bello,Notebook,OFFICE,6,4.5,EAST,R. Diaz
+1141,2026-11-27,Sofia Rossi,Notebook,office,4,4.5,south,J. Patel
+1127,24-10-2026,Emma Wilson,Notebook,Office,3,4.5,West,K. Chen
+1032,12/17/2026,Liu Wei,Notebook,Office,1,$4.50,West,J. Patel
+1118,2026-02-09,Liu Wei,Headphones,ELECTRONICS,2,59.99,south,M. Owens
+1044,23-10-2026,Grace Park,Backpack,accessories,2,45.0,N.,M. Owens
+1074,28-4-2026,Tom Becker,Headphones,electronics,1,$59.99, West,R. Diaz
+1138,9/11/2026,David Kim,Backpack,Accessories,5,45.0,EAST,M. Owens
+1058,2/15/2026,Sofia Rossi,Headphones,ELECTRONICS,1,59.99,north,R. Diaz
+1071,5/19/2026,Ahmed Hassan,Wireless Mouse,electronics,5,19.99,East,J. Patel
+1009,3/17/2026,Tom Becker,Backpack,Accessories,6,45.0,NORTH,M. Owens
+1075,2-1-2026,Fatima Al-Rashid,Laptop,electronics,1,899.99 ,west,M. Owens
+1057,2026-04-09,Maria Santos,Wireless Mouse,electronics,5,19.99,west,K. Chen
+1008,9/9/2026,Liu Wei,Headphones,electronics,5,59.99,SOUTH,R. Diaz
+1145,8/28/2026,Ahmed Hassan,Monitor,ELECTRONICS,6,219.0,South,M. Owens
+1022,2026-06-25,Lucas Ferreira,Wireless Mouse,Electronics,1,19.99,west,K. Chen
+1043,2026-05-15,Tom Becker,Water Bottle,HOME,3,12.0,west,K. Chen
+1126,9/13/2026,Aisha Bello,Phone Case,accessories,5,$14.99,N.,R. Diaz
